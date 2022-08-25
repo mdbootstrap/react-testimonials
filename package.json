@@ -1,7 +1,7 @@
 {
-  "name": "react-template",
-  "version": "4.0.0",
-  "description": "template for mdb-react-ui-kit",
+  "name": "@mdbootstrap/react-testimonials",
+  "version": "1.0.0",
+  "description": "Responsive React Testimonials / Reviews templates built with Bootstrap 5. Testimonial page and section templates with stars, images, background images, cards & more.",
   "dependencies": {
     "mdb-react-ui-kit": "^4.0.0",
     "react": "^18.1.0",
@@ -25,7 +25,8 @@
     "bootstrap-theme",
     "css",
     "html",
-    "js"
+    "js",
+    "testimonials"
   ],
   "author": "MDBootstrap",
   "license": "MIT",
@@ -40,5 +41,14 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mdbootstrap/react-testimonials.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mdbootstrap/react-testimonials/issues"
+  },
+  "homepage": "https://mdbootstrap.com/docs/react/extended/testimonials"
 }
